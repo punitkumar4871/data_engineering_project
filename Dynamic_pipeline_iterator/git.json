@@ -1,18 +1,23 @@
 [
 {
-    "P_relative_URL":"punitkumar4871/data_engineering_project/refs/heads/main/data/crop2.csv",
-    "P_filefolder":"CropData2",
-    "P_file_name":"Crop_data2.csv"
+    "P_relative_URL":"punitkumar4871/data_engineering_project/refs/heads/main/data/yeild_data1.csv",
+    "P_filefolder":"yeild_data1",
+    "P_file_name":"yeild_data2.cav"
 },
 {
-    "P_relative_URL":"punitkumar4871/data_engineering_project/refs/heads/main/data/crop3.csv",
-    "P_filefolder":"CropData3",
-    "P_file_name":"Crop_data3.csv"
+    "P_relative_URL":"punitkumar4871/data_engineering_project/refs/heads/main/data/yeild_data2.csv",
+    "P_filefolder":"yeild_data2",
+    "P_file_name":"yeild_data2.csv"
 },
 {
-    "P_relative_URL":"punitkumar4871/data_engineering_project/refs/heads/main/data/crop4.csv",
-    "P_filefolder":"CropData4",
-    "P_file_name":"Crop_data4.csv"
+    "P_relative_URL":"punitkumar4871/data_engineering_project/refs/heads/main/data/yeild_data3.csv",
+    "P_filefolder":"yeild_data3",
+    "P_file_name":"yeild_data3.csv"
+},
+{
+    "P_relative_URL":"punitkumar4871/data_engineering_project/refs/heads/main/data/yeild_data4.csv",
+    "P_filefolder":"yeild_data4",
+    "P_file_name":"yeild_data4.csv"
 }
 
 
